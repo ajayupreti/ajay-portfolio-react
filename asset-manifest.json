@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ajay-portfolio-react/static/css/main.b73741cb.chunk.css",
+    "main.js": "/ajay-portfolio-react/static/js/main.b9dacaca.chunk.js",
+    "main.js.map": "/ajay-portfolio-react/static/js/main.b9dacaca.chunk.js.map",
+    "runtime-main.js": "/ajay-portfolio-react/static/js/runtime-main.68b00220.js",
+    "runtime-main.js.map": "/ajay-portfolio-react/static/js/runtime-main.68b00220.js.map",
+    "static/js/2.47ab64fc.chunk.js": "/ajay-portfolio-react/static/js/2.47ab64fc.chunk.js",
+    "static/js/2.47ab64fc.chunk.js.map": "/ajay-portfolio-react/static/js/2.47ab64fc.chunk.js.map",
+    "index.html": "/ajay-portfolio-react/index.html",
+    "precache-manifest.fedd6b61ae2a29db1abdd355995e5d10.js": "/ajay-portfolio-react/precache-manifest.fedd6b61ae2a29db1abdd355995e5d10.js",
+    "service-worker.js": "/ajay-portfolio-react/service-worker.js",
+    "static/css/main.b73741cb.chunk.css.map": "/ajay-portfolio-react/static/css/main.b73741cb.chunk.css.map",
+    "static/js/2.47ab64fc.chunk.js.LICENSE": "/ajay-portfolio-react/static/js/2.47ab64fc.chunk.js.LICENSE",
+    "static/media/ajay_pic.JPG": "/ajay-portfolio-react/static/media/ajay_pic.0f2506ed.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68b00220.js",
+    "static/js/2.47ab64fc.chunk.js",
+    "static/css/main.b73741cb.chunk.css",
+    "static/js/main.b9dacaca.chunk.js"
+  ]
+}
